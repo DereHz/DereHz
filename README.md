@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/derehz/azure-network-protocols)
 
 Connect With Me
-[linkedin]:https://www.linkedin.com/in/derek-hernandez
+ - [linkedin]:https://www.linkedin.com/in/derek-hernandez
