@@ -1,6 +1,6 @@
 # <h1>Hi, I'm Derek, an <a href="(https://www.linkedin.com/in/derek-hernandez)">IT Professional<h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+    Information Technology Projects 📝
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/derehz/osticket-prereqs)
@@ -10,6 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/derehz/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/derehz/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+Connect with me
 
 [linkedin]:https://www.linkedin.com/in/derek-hernandez
